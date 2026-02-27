@@ -1,7 +1,7 @@
 [phases.install]
 cmds = [
   "pip install setuptools wheel",
-  "pip install highrise-bot-sdk==24.1.0"
+  "pip install highrise-bot-sdk==23.2.0"
 ]
 
 [start]
