@@ -1,8 +1,0 @@
-[phases.install]
-cmds = [
-  "pip install --upgrade pip setuptools wheel",
-  "pip install highrise-bot-sdk"
-]
-
-[start]
-cmd = "python main.py"
