@@ -1,2 +1,2 @@
 highrise-bot-sdk
-asyncio
+pendulum==2.1.2
