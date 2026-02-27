@@ -1,9 +1,7 @@
 [phases.install]
 cmds = [
   "pip install setuptools wheel",
-  "pip install pendulum==3.0.0",
-  "pip install highrise-bot-sdk --no-deps",
-  "pip install aiohttp cattrs click quattro typing_extensions"
+  "pip install highrise-bot-sdk==24.1.0"
 ]
 
 [start]
